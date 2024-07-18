@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "824ba1e42671c1c1f4fbf4b744eff69f",
+const RESOURCES = {"flutter_bootstrap.js": "215e3ecc620345dc0ad603534de1c833",
 "version.json": "e32f76ccee6fbeee646050c7d00d3e97",
 "index.html": "e0eccaa765602cb18396abbecc859f33",
 "/": "e0eccaa765602cb18396abbecc859f33",
-"main.dart.js": "e2e578ec581971441559c928b807860f",
+"main.dart.js": "81727329ca970a89a613e7f93c3443da",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -24,7 +24,7 @@ const RESOURCES = {"flutter_bootstrap.js": "824ba1e42671c1c1f4fbf4b744eff69f",
 "assets/AssetManifest.bin": "f835331455643ae8bd22078ae10d4e98",
 "assets/fonts/Electrolize-Regular.ttf": "1be3e0aaeb2bbd1985615a49da7f2eaf",
 "assets/fonts/Montserrat-Regular.ttf": "ee6539921d713482b8ccd4d0d23961bb",
-"assets/fonts/MaterialIcons-Regular.otf": "42f9500e0915efbe888784faf49ed02f",
+"assets/fonts/MaterialIcons-Regular.otf": "594fe999829dd1a130c179cffab038a0",
 "assets/assets/images/animals.jpg": "2e218a94e7842a946d772082ac8c5590",
 "assets/assets/images/antarctica.jpg": "71e86242fca831839833d1caa23f107e",
 "assets/assets/images/asia.jpg": "bbcf97c1be29e77360e8407b7e2eaa05",
